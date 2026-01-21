@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+
+# SQL temp files
+*.tmp
+*.bak
+
+# Output folders
+outputs/
+
+# Optional: ignore large raw data if needed
+# datasets/raw/
