@@ -8,7 +8,7 @@ This project analyzes an IMDb-style relational database for RSVP Movies to suppo
 - Evaluate ratings, votes, and audience preferences
 - Support decision-making for future movie acquisition and production planning
 
-## Database Schema (ERD)
+## Database Schema (Entity-Relationship Diagram - ERD)
 The database includes:
 - `movie` (title, year, country, languages, production_company, worldwide_gross_income)
 - `genre` (movie_id, genre)
